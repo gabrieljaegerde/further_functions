@@ -29,4 +29,4 @@ As a bonus challenge, you will create a function called `to_roman` that converts
 Your assignment will be auto-graded based on the provided test.
 
 ## Submission
-Please submit your assignment through GitHub Classroom by pushing your completed solutions to your repository before the deadline.
+Please submit your assignment through GitHub Classroom by pushing your completed solutions to your repository.
